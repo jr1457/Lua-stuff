@@ -1,3 +1,4 @@
+--edited from https://github.com/OpenPrograms/Sangar-Programs/blob/master/holo-text.lua
 local component = require("component")
 local keyboard = require("keyboard")
 local shell = require("shell")
